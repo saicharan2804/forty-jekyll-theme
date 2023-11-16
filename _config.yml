@@ -2,8 +2,8 @@
 title: Forty
 subtitle: by HTML5 UP
 email: gsaicharan.2k1@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Explore my blog!
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Jaishankar Street, West Mambalam
@@ -24,7 +24,7 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/saicharan2804
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
   LinkedIn: https://www.linkedin.com/in/saicharan-g-1b59b91b3/
   Twitter: 

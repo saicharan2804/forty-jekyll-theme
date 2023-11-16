@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Technnology
+description: What drives me and the world
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

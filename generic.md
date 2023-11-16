@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Perspective
+description: The only thing worse than being blind is having sight but no vision
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
