@@ -3,7 +3,7 @@ title: Forty
 subtitle: by HTML5 UP
 email: gsaicharan.2k1@gmail.com
 description: Explore my blog!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Jaishankar Street, West Mambalam
